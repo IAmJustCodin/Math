@@ -60,26 +60,25 @@ To merge these split files, simply follow these steps (the same applies to other
 2. Ensure that the file `mergePDFs-windows-amd64.exe` and the split PDF file are in the same directory.
 3. Double-Click `mergePDFs-windows-amd64.exe` the program to automatically merge the files.
 
-### 下载方式
-您可以通过以下链接，下载文件合并程序：
+### Download Method
+You can download the file merging program via the following link:
 
-[下载文件合并程序](https://github.com/TapXWorld/ChinaTextbook-tools/releases)
+[Download file merging program](https://github.com/TapXWorld/ChinaTextbook-tools/releases)
 
 
-### 文件和程序示例
+### File and program examples
 - mergePDFs-windows-amd64.exe
-- 义务教育教科书 · 数学一年级上册.pdf.1
-- 义务教育教科书 · 数学一年级上册.pdf.2
+- Compulsory Education Textbook: Mathematics, Grade 1, Volume 1.pdf.1
+- Compulsory Education Textbook: Mathematics, Grade 1, Volume 1.pdf.2
 
+## Re-download
+- If you are located in mainland China and have a good internet connection, and want to download it again, you can use [tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) project (open source is encouraged) to download it again.
+- If you are located overseas and have slow network communication speeds with mainland China, it is recommended that you use this repository for checkout.
 
-## 重新下载
-- 如果您位于内地，并且网络不错，想重新下载，您可以使用 [tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) 项目（鼓励开源），进行重新下载。
-- 如果您位于国外，和内地网络通信速度较慢，建议使用本存储库进行签出。
+## Textbook donation
+If this project helps you access educational resources for free, please consider supporting our efforts to promote open education! Your donation will help us maintain and expand this resource repository.
 
-## 教材捐献
-如果这个项目帮助您免费获取教育资源，请考虑支持我们推广开放教育的努力！您的捐献将帮助我们维护和扩展这个资源库。
-
-加入我们的 Telegram 社区，获取最新动态并分享您的想法：https://t.me/+1V6WjEq8WEM4MDM1
+Join our Telegram community to get the latest updates and share your thoughts: https://t.me/+1V6WjEq8WEM4MDM1
 
 ## Star History
 
