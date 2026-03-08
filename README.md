@@ -51,14 +51,14 @@ Because GitHub has a maximum upload limit for single files, files larger than 10
 
 ### Example
 Example of a file being split:
-- 义务教育教科书 · 数学一年级上册.pdf.1
-- 义务教育教科书 · 数学一年级上册.pdf.2
+- Compulsory Education Textbook: Mathematics, Grade 1, Volume 1.pdf.1
+- Compulsory Education Textbook: Mathematics, Grade 1, Volume 1.pdf.2
 
-### 解决办法
-要合并这些被拆分的文件，您只需执行以下步骤(其他操作系统同理)：
-1. 将合并程序 `mergePDFs-windows-amd64.exe` 下载到包含 PDF 文件的文件夹中。
-2. 确保 `mergePDFs-windows-amd64.exe` 和被拆分的 PDF 文件在同一目录下。
-3. 双击 `mergePDFs-windows-amd64.exe` 程序即可自动完成文件合并。
+### Solution
+To merge these split files, simply follow these steps (the same applies to other operating systems):
+1. Download the merging program `mergePDFs-windows-amd64.exe` to the folder containing the PDF file.
+2. Ensure that the file `mergePDFs-windows-amd64.exe` and the split PDF file are in the same directory.
+3. Double-Click `mergePDFs-windows-amd64.exe` the program to automatically merge the files.
 
 ### 下载方式
 您可以通过以下链接，下载文件合并程序：
